@@ -6,6 +6,7 @@ Initial capabilities:
 - Open cam feed remotely
 - Control automated defense turrets remotely
 - Web interface
+- Android app
 - File server
 - Media server
 - Print server
